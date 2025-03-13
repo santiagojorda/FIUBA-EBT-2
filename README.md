@@ -1,4 +1,4 @@
-# FIUBA-ebt-2
+# Empresas de Base Tecnologica II
 💻 Material, Resumenes, Videos - 2025C1
 
 - [Grupo Whatsapp](https://chat.whatsapp.com/EMI9lMP5XgIEiYGMf274AI)
